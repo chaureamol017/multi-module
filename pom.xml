@@ -15,7 +15,7 @@
   <modules>
     <module>persistence</module>
     <module>data-service</module>
-      <module>module-web</module>
+    <module>module-web</module>
   </modules>
   <packaging>pom</packaging>
 
